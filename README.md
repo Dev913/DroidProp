@@ -7,4 +7,4 @@ This application is for films makers. It helps if you are working on a budgeted 
 ![Screenshot 4](https://github.com/Dev913/DroidProp/blob/master/Screenshot_1580173043.png)
 
 # Download
-Will be purchasable @ Google play store. It is soon to be released. Awaiting google verification.
+Buy it here: https://play.google.com/store/apps/details?id=com.dev913.droidprop
